@@ -1,0 +1,6 @@
+framework module Pods_TedTalk {
+  umbrella header "Pods-TedTalk-umbrella.h"
+
+  export *
+  module * { export * }
+}
